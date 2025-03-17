@@ -35,8 +35,11 @@ With this system, we not only protect farmlands from damage but also prevent unn
 ## 🔄 Workflow of the System
 
 # Step 1: AI-Powered Surveillance
+
 A camera continuously monitors the farmland.
+
 The system captures real-time images or videos.
+
 # Step 2: YOLOv3 Object Detection
 YOLOv3 detects animals in the footage.
 Bounding boxes are drawn, and confidence scores are assigned.
