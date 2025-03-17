@@ -25,7 +25,8 @@ This raises a crucial question:
 # 🤖 The Solution: AI-Driven Farmland Surveillance & Protection
 
 To bridge this gap, we developed an AI-powered surveillance system that employs Machine Learning (ML) and Deep Learning (DL) algorithms to detect and deter animals non-lethally. Our system:
-✅ Detects animals in real-time using YOLOv3 (90% accuracy)
+
+✅ Detects animals in real-time using YOLOv3 (90% accuracy) /
 ✅ Uses CNN & Random Forest to validate detections, reducing false alarms by 40%
 ✅ Employs Arduino-controlled deterrents (lights, alarms, sprinklers) to scare animals away
 ✅ Ensures long-term monitoring & analysis using an automated data reconciliation system
